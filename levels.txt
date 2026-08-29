@@ -1,0 +1,181 @@
+*** 
+Each level is a map of 15 x 50 pixel sized blocks.
+key:
+x: regular wall/block
+^: spike
+o: dash refill
+b: breakable block
+c: cloud
+=: spring
+*: air
+***
+
+#1 (1,11)
+xxxxxxxxxxxx**x
+xxxxxxxx***x**x
+xxxx**********x
+xxxx**********x
+xxxx********xxx
+xxxx**********x
+xxxxxxxxx*****x
+xxxxx*********x
+xx************x
+************xxx
+*******xx***xxx
+***xx**xx***xxx
+xxxxx^^xx^^^xxx
+xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx
+
+#2 (1,12)
+xxxxxxxxxxxx**x
+xxxxxxxx***x**x
+xxxx*******x**x
+xxx********x**x
+xxx***********x
+xxx***^*******x
+x*****x******xx
+xxxx**x******xx
+xxxx**x***xxxxx
+xxxx**x******xx
+**xx**x******xx
+***x**x********
+******x^^^*****
+xxxxxxxxxx*****
+xxxxxxxxxx*****
+
+#3 (2,12)
+xxxxxxx****xxxx
+xxxxx*******xxx
+xxxx*********xx
+xxxx**********x
+x*xxxx********x
+***xxx********x
+***xxx^^^***xxx
+***xxxxxx***xxx
+******xx****xxx
+******^^****xxx
+***********=xxx
+******^^xxxxxxx
+****=*xxxxxxxxx
+xxx*x*xxxxxxxxx
+xxx*x*xxxxxxxxx
+
+#4 (1,11)
+xxxx***xxxxxxxx
+***************
+***************
+****xxx********
+****xxxx*******
+*****xx*****bb*
+*****xx********
+*****xx*bb*****
+*****xx******bb
+*****xx********
+***************
+************bb*
+xxxx****bb*****
+xxxxbb*********
+xxxx***********
+
+#5 (1,11)
+xx**xxxxxxxxxxx
+xx**x*******xxx
+*************xx
+*************xx
+**xxx****^^**xx
+*********xx**xx
+*********xx**xx
+*********xx**xx
+*****^***xxx***
+*****x****xx***
+*****x*********
+*****x*********
+xxxx*x***xxxxxx
+**x**x*****x***
+**x**x*****x***
+
+#6 (1,11)
+xxxxxxxxxxx**xx
+x*****xxxxx**xx
+x^^^^xxxxxx**xx
+xxxxxxxx*****xx
+xxxxxx^^*****xx
+xxxxxx*******xx
+x^^^^^*****xxxx
+x**********xxxx
+*********o*****
+***************
+***************
+***************
+xxxxxxx***xxxxx
+xxxxxxx***xxxxx
+xxxxxxx***xxxxx
+
+#7 (2,13)
+xxxxx*****xxxxx
+xxxx*******xxxx
+xx^*c*****c*^xx
+xx^***^^^***^xx
+xx^**^xxx^**^xx
+x*************x
+x**c*****c****x
+x*************x
+***************
+**c****c*****c*
+***************
+***************
+*c****c*****c**
+***************
+*xx************
+
+#8 (2,12)
+x****xxxxxxxxxx
+x*******xxxxxxx
+x**o*********xx
+x************xx
+x^*****o*****xx
+xx***********b*
+xx***********b*
+x**************
+***************
+************=**
+************x**
+***************
+******bbb******
+xxxx***********
+xxxx***********
+
+#9 (2,11)
+xxx***xxxxxxxxx
+x*****xxx****xx
+x*****xxx****xx
+*************xx
+***o***o*****xx
+*************xx
+*************xx
+***************
+************=**
+************x**
+***************
+*****^^^*******
+^^x^^xxx***=***
+xxxxxxxx^^^x^^^
+xxxxxxxxxxxxxxx
+
+#10 (2,11)
+xxxxxxxx**xxxxx
+x****o****xxxxx
+***^^******xxxx
+***xx****^^xxxx
+*xxxx***^xxxxxx
+*^^^x***^xxxxxx
+************xxx
+*****^^*******c
+^^^^^xx********
+xxxxxx*****bb**
+x**************
+***************
+*******bb******
+**bb***********
+***************
